@@ -11,7 +11,10 @@ let package = Package(
    targets: [
        .target(
            name: "IQKeyboardManagerSwift",
-           path: "IQKeyboardManagerSwift"
+           path: "IQKeyboardManagerSwift",
+           resources: [
+               .copy("PrivacyInfo.xcprivacy")
+           ]
        )
    ]
 )

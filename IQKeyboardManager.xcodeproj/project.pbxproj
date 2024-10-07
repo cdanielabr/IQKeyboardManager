@@ -67,6 +67,8 @@
 		C088C7532822A2E2002191E4 /* IQUIView+Hierarchy.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088C73B2822A2E2002191E4 /* IQUIView+Hierarchy.swift */; };
 		C088C7542822A2E2002191E4 /* IQNSArray+Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088C73C2822A2E2002191E4 /* IQNSArray+Sort.swift */; };
 		C088C7552822A2E2002191E4 /* IQKeyboardManager+UITextFieldViewNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088C73D2822A2E2002191E4 /* IQKeyboardManager+UITextFieldViewNotification.swift */; };
+		C936EC902CB42AFB00366E17 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = C936EC8F2CB42AFB00366E17 /* PrivacyInfo.xcprivacy */; };
+		C936EC922CB42B0C00366E17 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = C936EC912CB42B0C00366E17 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,6 +132,8 @@
 		C088C73B2822A2E2002191E4 /* IQUIView+Hierarchy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQUIView+Hierarchy.swift"; sourceTree = "<group>"; };
 		C088C73C2822A2E2002191E4 /* IQNSArray+Sort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQNSArray+Sort.swift"; sourceTree = "<group>"; };
 		C088C73D2822A2E2002191E4 /* IQKeyboardManager+UITextFieldViewNotification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IQKeyboardManager+UITextFieldViewNotification.swift"; sourceTree = "<group>"; };
+		C936EC8F2CB42AFB00366E17 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		C936EC912CB42B0C00366E17 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +196,7 @@
 		4CD2C4B31C5A63A300975A7A /* IQKeyboardManager */ = {
 			isa = PBXGroup;
 			children = (
+				C936EC8F2CB42AFB00366E17 /* PrivacyInfo.xcprivacy */,
 				4CD2C4B41C5A63A300975A7A /* Categories */,
 				4CD2C4C11C5A63A300975A7A /* Constants */,
 				4CD2C4C41C5A63A300975A7A /* IQKeyboardManager.h */,
@@ -269,6 +274,7 @@
 		C088C7212822A2E2002191E4 /* IQKeyboardManagerSwift */ = {
 			isa = PBXGroup;
 			children = (
+				C936EC912CB42B0C00366E17 /* PrivacyInfo.xcprivacy */,
 				C088C7222822A2E2002191E4 /* IQTextView */,
 				C088C7242822A2E2002191E4 /* IQKeyboardManager+Internal.swift */,
 				C088C7252822A2E2002191E4 /* IQToolbar */,
@@ -442,6 +448,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C936EC902CB42AFB00366E17 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,6 +456,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C936EC922CB42B0C00366E17 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
