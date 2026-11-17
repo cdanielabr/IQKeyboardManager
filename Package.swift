@@ -14,11 +14,11 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/hackiftekhar/IQKeyboardNotification.git", from: "1.0.7"),
-        .package(url: "https://github.com/hackiftekhar/IQTextInputViewNotification.git", from: "1.0.9"),
-        .package(url: "https://github.com/hackiftekhar/IQKeyboardToolbarManager.git", from: "1.1.5"),
-        .package(url: "https://github.com/hackiftekhar/IQKeyboardReturnManager.git", from: "1.0.6"),
-        .package(url: "https://github.com/hackiftekhar/IQTextView.git", from: "1.0.5")
+        .package(url: "https://github.com/cdanielabr/IQKeyboardNotification.git", from: "master"),
+        .package(url: "https://github.com/cdanielabr/IQTextInputViewNotification.git", from: "master"),
+        .package(url: "https://github.com/cdanielabr/IQKeyboardToolbarManager.git", from: "master"),
+        .package(url: "https://github.com/cdanielabr/IQKeyboardReturnManager.git", from: "master"),
+        .package(url: "https://github.com/cdanielabr/IQTextView.git", from: "master")
     ],
     targets: [
         .target(name: "IQKeyboardManagerSwift",
