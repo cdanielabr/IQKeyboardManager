@@ -1,6 +1,6 @@
-github "hackiftekhar/IQKeyboardCore" "main"
+github "hackiftekhar/IQKeyboardCore" "3f9bbdd45e936bc5114a2db1d15f9f1525ae6e1a"
 github "hackiftekhar/IQKeyboardNotification" "main"
-github "hackiftekhar/IQKeyboardReturnManager" "main"
+github "hackiftekhar/IQKeyboardReturnManager" "f4dc6a0505dab3f220a558130cb43c9c89666f5f"
 github "hackiftekhar/IQKeyboardToolbar" "main"
 github "hackiftekhar/IQKeyboardToolbarManager" "main"
 github "hackiftekhar/IQTextInputViewNotification" "main"
