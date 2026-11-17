@@ -1,4 +1,4 @@
-github "hackiftekhar/IQKeyboardCore" "master"
+github "hackiftekhar/IQKeyboardCore" "main"
 github "hackiftekhar/IQKeyboardNotification" "master"
 github "hackiftekhar/IQKeyboardReturnManager" "master"
 github "hackiftekhar/IQKeyboardToolbar" "master"
